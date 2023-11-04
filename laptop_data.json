@@ -1,0 +1,12 @@
+[{"product_id":1, "information":"HP Victus Gaming Laptop", "ram":16, "brand":"HP", "price":53000.0, "storagetype":" 512GB SSD", "processor":"Core i7"},
+ {"product_id":2, "information":"HP Laptop Office Work", "ram":8, "brand":"HP", "price":43000.0, "storagetype":"512GB SSD", "processor":"AMD Ryzen 5 5500U"},
+ {"product_id":3, "information":"HP Pavilion 14", "ram":16, "brand":"HP", "price":66000.0, "storagetype":"512GB SSD", "processor":"\tCore i5"},
+ {"product_id":4, "information":"Dell 15 Laptop", "ram":16, "brand":"DELL", "price":60000.0, "storagetype":"512GB SSD", "processor":"\tCore i5"},
+ {"product_id":5, "information":"Dell Inspiron 5430 Laptop", "ram":8, "brand":"DELL", "price":73000.0, "storagetype":"512GB SSD", "processor":"\tCore i7"},
+ {"product_id":6, "information":"Dell Latitude 7390 Notebook-cr", "ram":16, "brand":"DELL", "price":45000.0, "storagetype":"512GB SSD", "processor":"Core i7"},
+ {"product_id":7, "information":"Aspire 5 Gaming ", "ram":16, "brand":"ACER", "price":80000.0, "storagetype":"512GB SSD", "processor":"Core i5"},
+ {"product_id":8, "information":"Acer One 14 Z2-493", "ram":8, "brand":"ACER", "price":45000.0, "storagetype":"256GB SSD", "processor":"Ryzen 3 3250U"},
+ {"product_id":9, "information":"Aspire Lite", "ram":16, "brand":"ACER", "price":73000.0, "storagetype":"256GB SSD", "processor":"Core i5"},
+ {"product_id":10, "information":"MacBook Air", "ram":8, "brand":"APPLE", "price":90000.0, "storagetype":"256GB SSD", "processor":"M1 chip"},
+ {"product_id":11, "information":"MacBook Pro", "ram":16, "brand":"APPLE", "price":150000.0, "storagetype":"512GB SSD", "processor":"M2 Pro chip"},
+ {"product_id":12, "information":"MacBook Pro", "ram":16, "brand":"APPLE", "price":45000.0, "storagetype":"1TB SSD", "processor":"M2 Max chip"}]
